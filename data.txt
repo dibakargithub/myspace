@@ -1,0 +1,9 @@
+Increase Resolution
+Step 1
+Open your file in Adobe Photoshop. Press "Shift-Ctrl-I" to open the Image Size dialog box.
+
+Step 2
+Turn on the "Resample Image" check box and set the resolution to 300 pixels per inch. Notice that the Pixel Dimensions -- width, height and file size -- at the top of the dialog box increase, whereas the width and height in the Document Size section remain unchanged. For example, an 8-bit RGB image that measures 432 pixels wide by 288 pixels high at 72 ppi remains 6 inches wide by 4 inches high at 300 ppi, but becomes 1800 pixels wide by 1200 pixels high, and increases in file size from 364.5K to 6.18MB. Click on the "OK" button to apply your settings.
+
+Step 3
+Look at your image window and image quality. Because you increased the resolution of your file, and thereby its size, your image window appears larger. With that increased size, however, comes pixelation introduced when Photoshop interpolated new pixels to accommodate the larger file area.

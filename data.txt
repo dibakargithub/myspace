@@ -7,3 +7,4 @@ Turn on the "Resample Image" check box and set the resolution to 300 pixels per 
 
 Step 3
 Look at your image window and image quality. Because you increased the resolution of your file, and thereby its size, your image window appears larger. With that increased size, however, comes pixelation introduced when Photoshop interpolated new pixels to accommodate the larger file area.
+1111111111111
